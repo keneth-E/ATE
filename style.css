@@ -207,7 +207,7 @@ color: #000000;
     .div8{
         position: absolute;
         left: 40px;
-        top: 270px;
+        top: 150px;
         font-size: 15px;
         width: auto;
     }
@@ -259,7 +259,7 @@ color: #000000;
         width: 330px;
         position: absolute;
         left: 30px;
-        top: 270px;
+        top: 150px;
         font-size: 13px;
         
     }
@@ -308,7 +308,7 @@ color: #000000;
         width: auto;
         position: absolute;
         left: 30px;
-        top: 270px;
+        top: 150px;
         font-size: 10px;
     }
     .div9{
