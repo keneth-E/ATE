@@ -71,33 +71,7 @@ img{
     width: 598px;
     height: 457px;
 }
-.div6{
-position: absolute;
 
-height: 24px;
-left: 200px;
-top: 192px;
-font-family: 'Inter';
-font-style: normal;
-
-font-size: 20px;
-line-height: 24px;
-color: #000000;
-}
-
-.div7{
-position: absolute;
-width: 200px;
-height: 100px;
-left: 200px;
-top: 225px;
-font-family: 'Inter';
-font-style: normal;
-
-font-size: 12px;
-line-height: 20px;
-color: #000000;
-}
 
 .div8{
 position: absolute;
